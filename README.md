@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**QuangVuong85/QuangVuong85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![QuangVuong85's github stats](https://github-readme-stats.vercel.app/api?username=QuangVuong85 "![QuangVuong85's github stats")](https://github.com/QuangVuong85/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
