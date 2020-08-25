@@ -5,7 +5,7 @@
 ### Welcome to Dinh Quang Vuong's GitHub 👋
 
 
-
+![](https://img.shields.io/badge/-Java-8cadad?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
